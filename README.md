@@ -1,6 +1,6 @@
 ## PHP2550 Project 2: Regression Analysis
 
-${\color{gray}Posted: 11/05/2023}$
+${\color{gray}Posted: 11/12/2023}$
 
 This is the 2nd project assignment of PHP2550 Practical Data Analysis course at Brown University (Fall 23).
 
